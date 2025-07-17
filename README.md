@@ -25,14 +25,6 @@ Problem Solving, Teamwork, Project Management, Time Management
 
 ---
 
-📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavic10&show_icons=true&theme=midnight-purple" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavic10&theme=midnight-purple" width="48%" />
-</p>
-
----
-
 🎨 **Fun Facts**
 - 🌌 I'm an **Astrophile** who loves stargazing and exploring the cosmos  
 - 🖌️ I find joy in **sketching and painting**, especially abstract and nature-inspired art  
