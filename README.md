@@ -9,8 +9,7 @@
 - 💬 Ask me about: Java, MERN Stack & AI Tools
 - 🤝 Open to hackathons, collaborations & learning opportunities
 - 📫 Reach me at: [vaishnavichopade316@gmail.com](mailto:vaishnavichopade316@gmail.com)
-
----
+  
 ---
 
 🧠 **Soft Skills**  
