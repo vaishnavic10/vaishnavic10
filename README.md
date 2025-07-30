@@ -17,6 +17,16 @@ Problem Solving, Teamwork, Project Management, Time Management
 
 ---
 
+## 📊 GitHub Stats:
+
+![Vaishnavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaishnavic10&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavic10&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vaishnavic10&theme=radical)
+
+---
+
 🏆 **Achievements**
 - 🚀 Selected as a Contributor for **GirlScript Summer of Code 2025** (GSSoC '25)
 - 🧠 Successfully completed a 6-week MERN Stack internship at **EY GDS**
