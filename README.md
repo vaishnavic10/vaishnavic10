@@ -24,7 +24,7 @@ Problem Solving, Teamwork, Project Management, Time Management
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavic10&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vaishnavic10&theme=radical)
+![Achievement: Pull Shark](https://img.shields.io/badge/Pull%20Shark-Contributor-blueviolet?style=for-the-badge&logo=github)
 
 ---
 
