@@ -18,7 +18,7 @@ Problem Solving, Teamwork, Project Management, Time Management, Attention to Det
 ---
 
 🏆 **Achievements**
-- 🚀 Selected as a Contributor for **GirlScript Summer of Code 2025** (GSSoC '25)
+- 🚀 Contributor for **GirlScript Summer of Code 2025** (GSSoC '25) - 4 pull requests successfully merged in an open-source project
 - 🧠 Successfully completed a 6-week MERN Stack internship at **EY GDS**
 - 🥇 Participated in **Hack the Future: A Gen AI Hackathon by Accenture**
 - 👩‍💼 Technical leader in academic projects and team collaborations
