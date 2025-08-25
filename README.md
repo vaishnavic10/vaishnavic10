@@ -13,7 +13,7 @@
 ---
 
 🧠 **Soft Skills**  
-Problem Solving, Teamwork, Project Management, Time Management
+Problem Solving, Teamwork, Project Management, Time Management, Attention to Detail
 
 ---
 
