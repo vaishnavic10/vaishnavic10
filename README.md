@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vaishnavi Chopade!</h1>
+<h1 align="center">Hi, I'm Vaishnavi Chopade!</h1>
 <h3 align="center">🚀 Aspiring Software Developer | Java & MERN Stack Enthusiast | AI Explorer</h3>
 
 ---
