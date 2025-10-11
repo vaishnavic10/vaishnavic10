@@ -1,48 +1,92 @@
-<h1 align="center">Hi, I'm Vaishnavi Chopade!</h1>
-<h3 align="center">🚀 Aspiring Software Developer | Java & MERN Stack Enthusiast | AI Explorer</h3>
+<!-- Profile README for vaishnavic10 -->
 
----
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=28&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Vaishnavi+Chopade!;Aspiring+Software+Developer;Java+%26+MERN+Stack+Enthusiast;AI+Explorer+and+Innovator!" alt="Typing Animation" />
+</h1>
 
-🌟 **About Me**
-- 💻 Passionate about building impactful full-stack applications
-- 🌱 I’m learning **DSA in Java** and exploring **AI integration** into web platforms
-- 💬 Ask me about: Java, MERN Stack & AI Tools
-- 🤝 Open to hackathons, collaborations & learning opportunities
-- 📫 Reach me at: [vaishnavichopade316@gmail.com](mailto:vaishnavichopade316@gmail.com)
-  
----
-
-🧠 **Soft Skills**  
-Problem Solving, Teamwork, Project Management, Time Management, Attention to Detail
-
----
-
-🏆 **Achievements**
-- 🚀 Contributor for **GirlScript Summer of Code 2025** (GSSoC '25) - 4 pull requests successfully merged in an open-source project
-- 🧠 Successfully completed a 6-week MERN Stack internship at **EY GDS**
-- 🥇 Participated in **Hack the Future: A Gen AI Hackathon by Accenture**
-- 👩‍💼 Technical leader in academic projects and team collaborations
-
----
-
-🎨 **Fun Facts**
-- 🌌 I'm an **Astrophile** who loves stargazing and exploring the cosmos  
-- 🖌️ I find joy in **sketching and painting**, especially abstract and nature-inspired art  
-- ✨ I enjoy creating clean UI designs and simplifying complex logic with code  
-- ☕ My productivity booster? A hot cup of **cardamom tea** and a problem to solve!
-
----
-
-🔗 **Connect With Me**
 <p align="center">
-  <a href="https://www.linkedin.com/in/vaishnavi-chopade-624110287/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:vaishnavichopade316@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/vaishnavic10">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vaishnavic10&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />  
+</p>
+
+---
+
+### 🌟 About Me
+
+💻 Passionate about building **impactful full-stack applications** that make a real-world difference.  
+🌱 Currently learning **DSA in Java** and exploring **AI integration** into modern web apps.  
+💬 Ask me about: **Java**, **MERN Stack**, and **AI Tools**  
+🤝 Open to **hackathons, collaborations**, and **team projects**.  
+📫 Reach me at: **[vaishnavichopade316@gmail.com](mailto:vaishnavichopade316@gmail.com)**  
+
+---
+
+### 🧠 Soft Skills
+
+💡 Problem Solving 🤝 Teamwork 📊 Project Management  
+⏱️ Time Management 🔍 Attention to Detail  
+
+---
+
+### 🏆 Achievements
+
+🚀 **Contributor – GirlScript Summer of Code 2025 (GSSoC ’25)**  
+> 4 successful PRs merged in open-source projects  
+
+🧠 **6-Week MERN Stack Internship – EY GDS**  
+> Built and deployed a real-world full-stack application  
+
+🥇 **Hack the Future – Gen AI Hackathon by Accenture**  
+> Explored AI-driven innovation in software solutions  
+
+👩‍💼 **Technical Leader** in academic projects  
+> Guided teammates and ensured high-quality project delivery  
+
+---
+
+### 🎨 Fun Facts
+
+🌌 I’m an **Astrophile** — stargazing inspires my creativity  
+🖌️ I enjoy **sketching and painting**, especially nature-inspired art  
+✨ I love crafting **clean UI designs** & simplifying complex logic  
+☕ My productivity booster? A **hot cup of cardamom tea** + a challenging bug to solve  
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:** Java | JavaScript | Python | HTML | CSS | SQL  
+**Frameworks & Tools:** React | Node.js | Express | MongoDB | Git | Postman | VS Code  
+
+---
+
+### 🔗 Connect With Me
+
+<p align="center">
+<a href="mailto:vaishnavichopade316@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/vaishnavic10"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/vaishnavi-chopade"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavic10&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavic10&layout=compact&theme=tokyonight" height="160px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavic10&theme=tokyonight" height="160px"/>
+</p>
+
+---
+
+⭐ *“Keep coding, keep creating — every great solution starts with curiosity.”*
