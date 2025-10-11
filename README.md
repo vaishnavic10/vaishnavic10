@@ -28,22 +28,6 @@
 
 ---
 
-### 🏆 Achievements
-
-🚀 **Contributor – GirlScript Summer of Code 2025 (GSSoC ’25)**  
-> 4 successful PRs merged in open-source projects  
-
-🧠 **6-Week MERN Stack Internship – EY GDS**  
-> Built and deployed a real-world full-stack application  
-
-🥇 **Hack the Future – Gen AI Hackathon by Accenture**  
-> Explored AI-driven innovation in software solutions  
-
-👩‍💼 **Technical Leader** in academic projects  
-> Guided teammates and ensured high-quality project delivery  
-
----
-
 ## 💻 Technical Skills
 
 **Programming Languages:**  
@@ -70,6 +54,21 @@ Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Operating
 
 ---
 
+### 🏆 Achievements
+
+🚀 **Contributor – GirlScript Summer of Code 2025 (GSSoC ’25)**  
+> 4 successful PRs merged in open-source projects  
+
+🧠 **6-Week MERN Stack Internship – EY GDS**  
+> Built and deployed a real-world full-stack application  
+
+🥇 **Hack the Future – Gen AI Hackathon by Accenture**  
+> Explored AI-driven innovation in software solutions  
+
+👩‍💼 **Technical Leader** in academic projects  
+> Guided teammates and ensured high-quality project delivery
+
+---
 
 ### 🎨 Fun Facts
 
