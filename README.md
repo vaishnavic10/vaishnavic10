@@ -72,7 +72,7 @@
 
 ---
 
-### 📊 GitHub Stats (quick fix)
+### 📊 GitHub Stats
 
 <p align="center">
   <!-- main stats: include_all_commits true shows total commits across years (may change rank) -->
