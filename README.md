@@ -11,10 +11,6 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vaishnavic10&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />  
-</p>
-
 ---
 
 ### 🌟 About Me
@@ -50,19 +46,19 @@
 
 ---
 
+### 🛠️ Tech Stack
+
+**Languages:** Java | JavaScript | Python | HTML | CSS | SQL  
+**Frameworks & Tools:** React | Node.js | Express | MongoDB | Git | Postman | VS Code  
+
+---
+
 ### 🎨 Fun Facts
 
 🌌 I’m an **Astrophile** — stargazing inspires my creativity  
 🖌️ I enjoy **sketching and painting**, especially nature-inspired art  
 ✨ I love crafting **clean UI designs** & simplifying complex logic  
 ☕ My productivity booster? A **hot cup of cardamom tea** + a challenging bug to solve  
-
----
-
-### 🛠️ Tech Stack
-
-**Languages:** Java | JavaScript | Python | HTML | CSS | SQL  
-**Frameworks & Tools:** React | Node.js | Express | MongoDB | Git | Postman | VS Code  
 
 ---
 
@@ -76,16 +72,21 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats (quick fix)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavic10&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavic10&layout=compact&theme=tokyonight" height="160px"/>
+  <!-- main stats: include_all_commits true shows total commits across years (may change rank) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavic10&show_icons=true&theme=tokyonight&include_all_commits=true" height="160px"/>
+
+  <!-- top languages: use repo-count weighting (count_weight=1, size_weight=0) to avoid one-big-file bias -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavic10&layout=compact&theme=tokyonight&count_weight=1&size_weight=0&exclude_repo=repo-to-exclude" height="160px"/>
 </p>
 
 <p align="center">
+  <!-- streak card (public service) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavic10&theme=tokyonight" height="160px"/>
 </p>
+
 
 ---
 
