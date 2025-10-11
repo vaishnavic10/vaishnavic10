@@ -44,7 +44,7 @@
 
 ---
 
-## 💻 Skills
+## 💻 Technical Skills
 
 **Programming Languages:**  
 Java, Python, JavaScript  
