@@ -28,13 +28,6 @@
 
 ---
 
-### 🧠 Soft Skills
-
-💡 Problem Solving 🤝 Teamwork 📊 Project Management  
-⏱️ Time Management 🔍 Attention to Detail  
-
----
-
 ### 🏆 Achievements
 
 🚀 **Contributor – GirlScript Summer of Code 2025 (GSSoC ’25)**  
@@ -51,12 +44,32 @@
 
 ---
 
-### 🛠️ Tech Stack
+## 💻 Skills
 
-**Languages:** Java | JavaScript | Python | HTML | CSS | SQL  
-**Frameworks & Tools:** React | Node.js | Express | MongoDB | Git | Postman | VS Code  
+**Programming Languages:**  
+Java, Python, JavaScript  
+
+**Technologies / Frameworks:**  
+HTML5, CSS3, React, Node.js, Express.js, REST APIs  
+
+**Developer Tools:**  
+VS Code, Git, GitHub, Postman, Eclipse, Jupyter Notebook  
+
+**Databases:**  
+SQL, MongoDB  
+
+**Computer Fundamentals:**  
+Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Operating Systems, DBMS, Computer Networks  
 
 ---
+
+### 🧠 Soft Skills
+
+💡 Problem Solving 🤝 Teamwork 📊 Project Management  
+⏱️ Time Management 🔍 Attention to Detail  
+
+---
+
 
 ### 🎨 Fun Facts
 
