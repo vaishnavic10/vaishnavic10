@@ -22,7 +22,7 @@
 
 💻 Passionate about building **impactful full-stack applications** that make a real-world difference.  
 🌱 Currently learning **DSA in Java** and exploring **AI integration** into modern web apps.  
-💬 Ask me about: **Java**, **MERN Stack**, and **AI Tools**  
+💬 Ask me about: **Java**, **MERN Stack**, and **AI**  
 🤝 Open to **hackathons, collaborations**, and **team projects**.  
 📫 Reach me at: **[vaishnavichopade316@gmail.com](mailto:vaishnavichopade316@gmail.com)**  
 
